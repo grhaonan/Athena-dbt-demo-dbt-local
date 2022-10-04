@@ -1,2 +1,2 @@
-athena-adapter==1.0.1
+dbt-athena-adapter==1.0.1
 dbt-core==1.0.8
