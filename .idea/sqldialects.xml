@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="SqlDialectMappings">
-    <file url="file://$PROJECT_DIR$/athena_dbt_demo/models/analytics_layers/women_clothes_reviews_training_data.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/athena_dbt_demo/models/analytics_layer/vw_women_clothes_reviews_training_data.sql" dialect="GenericSQL" />
     <file url="file://$PROJECT_DIR$/athena_dbt_demo/models/prep_layer/vw_women_clothes_reviews_rename_columns.sql" dialect="GenericSQL" />
     <file url="file://$PROJECT_DIR$/athena_dbt_demo/models/prep_layer/vw_women_clothes_reviews_sentiments.sql" dialect="GenericSQL" />
   </component>
