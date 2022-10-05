@@ -39,3 +39,5 @@ models:
     prep_layer:
     # This will help to store the result in JSON
       +materialized: view
+    analytics_layer:
+      +materialized: view
