@@ -1,0 +1,7 @@
+
+y
+Iathena_dbt_demo/models/prep_layer/vw_women_clothes_reviews_sentiments.sql,b/7/b7f1577ba5ab9851ae02c8ab0435042be30f4f28
+@
+requirements.txt,1/9/19359a61ae2446b51b549167b014da2fcf265768
+O
+athena_dbt_demo/dbt_project.yml,b/3/b39cec9dbd43366c6acae955bbfe3bd6cc32d801
