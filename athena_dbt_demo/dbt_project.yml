@@ -34,8 +34,6 @@ clean-targets:         # directories to be removed by `dbt clean`
 models:
   athena_dbt_demo:
     # Config indicated by + and applies to all files under models/example/
-    example:
-      +materialized: view
     prep_layer:
     # This will help to store the result in JSON
       +materialized: view

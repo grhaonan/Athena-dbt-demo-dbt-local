@@ -1,5 +1,3 @@
-{{ config(materialized='table') }}
-
 -- Remove records with sentiment score in NULL
 SELECT *
 FROM {{ ref('vw_women_clothes_reviews_sentiments') }}
